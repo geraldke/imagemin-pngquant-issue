@@ -16,7 +16,8 @@ node index.js
 ```
 
 ## Env
-
+```
 Ubuntu - 20.04 LTS
 Node - v12.13.0
 Yarn - v1.22.4
+```
