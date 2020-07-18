@@ -1,0 +1,10 @@
+{
+  "name": "gerald",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "imagemin": "^7.0.1",
+    "imagemin-pngquant": "^9.0.0"
+  }
+}
